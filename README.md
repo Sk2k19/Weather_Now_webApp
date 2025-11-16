@@ -88,7 +88,7 @@ Open your browser and visit `http://localhost:3000` to view the app.
 
 ## Author
 
-- Your Name Shivam Kanaujiya
+- Shivam Kanaujiya
 - Contact: shivamk.dev2002@gmail.com 
 - GitHub:  (https://github.com/Sk2k19)
 
