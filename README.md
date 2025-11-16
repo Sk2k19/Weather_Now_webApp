@@ -88,9 +88,9 @@ Open your browser and visit `http://localhost:3000` to view the app.
 
 ## Author
 
-- Your Name  
-- Contact: your.email@example.com  
-- GitHub: [your-username](https://github.com/Sk2k19)
+- Your Name Shivam Kanaujiya
+- Contact: shivamk.dev2002@gmail.com 
+- GitHub:  (https://github.com/Sk2k19)
 
 ---
 
